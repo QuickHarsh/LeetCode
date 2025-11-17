@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/QuickHarsh/LeetCode/tree/master/0027-remove-element) |
 | [0435-non-overlapping-intervals](https://github.com/QuickHarsh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0985-bag-of-tokens](https://github.com/QuickHarsh/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/QuickHarsh/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Two Pointers
 |  |
 | ------- |
