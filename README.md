@@ -59,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/QuickHarsh/LeetCode/tree/master/0002-add-two-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/QuickHarsh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/QuickHarsh/LeetCode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/QuickHarsh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 <!---LeetCode Topics End-->
