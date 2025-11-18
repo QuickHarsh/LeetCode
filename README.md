@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/QuickHarsh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/QuickHarsh/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0985-bag-of-tokens](https://github.com/QuickHarsh/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1036-rotting-oranges](https://github.com/QuickHarsh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/QuickHarsh/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/QuickHarsh/LeetCode/tree/master/0112-path-sum) |
+| [1036-rotting-oranges](https://github.com/QuickHarsh/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/QuickHarsh/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/QuickHarsh/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
